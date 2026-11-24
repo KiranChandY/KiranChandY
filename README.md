@@ -38,10 +38,10 @@
 | **[Aware](https://youraware.com)** · [web app](https://app.youraware.com) | AI consumer health app: scan any product and see what's in it and whether it fits you. I designed and built it end to end, from brand and design system to the app, backend and AI scoring. *(Source is private.)* | TypeScript, React, Supabase, PostgreSQL, multimodal AI |
 | **Bible Atlas** | Interactive 3D globe of Bible stories, archaeological finds and cinematic journeys with a camera that flies routes in 3D. *(Private, demo on request.)* | Next.js, Three.js, MapLibre, Supabase, Stripe |
 | **[Influur](https://github.com/KiranChandY/Influur)** · [live](https://v0-react-influur.vercel.app) | Concept UI for an AI influencer-campaign generator: pick a platform, describe the vibe, generate a campaign. | Next.js, TypeScript, Tailwind, shadcn/ui |
-| **[Influur Pulse](https://github.com/KiranChandY/Influur-Pulse)** | A second concept prototype exploring the Influur campaign experience. | Next.js, TypeScript, Tailwind |
+| **[Influur Pulse](https://github.com/KiranChandY/Influur-Pulse)** | Second iteration that adds audience targeting and campaign analytics (reach, engagement, budget). | Next.js, TypeScript, Tailwind |
 | **[We-App](https://github.com/KiranChandY/We-App)** | Cross-platform app with Firebase authentication (sign up, login, password reset) and Provider state management. | Flutter, Dart, Firebase |
-| **[Weather App](https://github.com/KiranChandY/Weather-App)** | Responsive weather app interface. | HTML, CSS, JavaScript |
-| **[Amazon Clone](https://github.com/KiranChandY/Amazon-clone)** | Responsive recreation of the Amazon storefront layout. | HTML, CSS |
+| **[Weather App](https://github.com/KiranChandY/Weather-App)** | Weather app interface with city search and current conditions. | HTML, CSS, JavaScript |
+| **[Amazon Clone](https://github.com/KiranChandY/Amazon-clone)** | Recreation of the Amazon homepage layout, built from scratch. | HTML, CSS |
 
 ---
 
